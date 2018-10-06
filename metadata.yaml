@@ -23,5 +23,7 @@ language: it
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "I mattoidi\r\nal primo concorso pel monumento in Roma a Vittorio Emanuele"
 url: http://www.gutenberg.org/ebooks/48682
